@@ -10,7 +10,7 @@ template: templates/single-column.html
 The WSO2 API Manager is a high performant, <b>100% open source </b> API Management solution designed to help you manage APIs. It is licensed under the Apache Software License Version 2.0 which makes it <b> free to use. </b>
 
 Get a head start with our 5-minute quick start or dive straight into our learning material to discover the full potential of the product.
-</p> 
+</p> ghj
    </div>
    <div class="md-main md-content rightImage">
    [ ![](assets/attachments/wso2-apim-overview.png) ](assets/attachments/wso2-apim-overview.png)
